@@ -1,0 +1,5 @@
+Equation 4.0x^2 + 3.0x + 7.0 failed: Discriminant is negative.
+Equation 1.0x^2 + 1.0x + 1.0 failed: Discriminant is negative.
+Equation 1.0x^2 + 5.0x + 1.0 solved successfully. Roots: -0.20871215252208009, -4.7912878474779195
+Equation 2.0x^2 + 5.0x + 1.0 solved successfully. Roots: -0.21922359359558485, -2.2807764064044154
+Equation 2.0x^2 + 7.0x + 2.0 solved successfully. Roots: -0.31385933836549285, -3.186140661634507

@@ -1,0 +1,1 @@
+Random number 5 generated successfully in range [4, 7].
